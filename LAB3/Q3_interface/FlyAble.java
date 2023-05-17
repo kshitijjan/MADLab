@@ -1,0 +1,4 @@
+interface FlyAble
+{
+    void fly();
+}
